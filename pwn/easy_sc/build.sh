@@ -1,0 +1,1 @@
+gcc -no-pie -fno-stack-protector -z execstack -o easy_sc easy_sc.c && strip easy_sc

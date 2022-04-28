@@ -1,0 +1,1 @@
+gcc game.c -o game && strip game && ./game

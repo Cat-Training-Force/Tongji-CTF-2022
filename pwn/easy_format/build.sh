@@ -1,0 +1,1 @@
+gcc easy_format.c -o easy_format && strip ./easy_format

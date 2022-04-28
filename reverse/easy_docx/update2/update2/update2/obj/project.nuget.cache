@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uXzXg0mlnyBRa5M3XTqWu7fuunpZtiITn2+BrFSH34qA07S6L/EUdo808b5bROxMaAGE618OTiMRtZaNPK3itA==",
+  "success": true,
+  "projectFilePath": "D:\\note\\projects\\Tongji-CTF-2022\\reverse\\easy_docx\\update2\\update2\\update2\\update2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tom\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Tom\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

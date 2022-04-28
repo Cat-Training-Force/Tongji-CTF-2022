@@ -1,0 +1,10 @@
+D:\note\projects\Tongji-CTF-2022\reverse\easy_docx\update2\update2\update2\bin\Debug\netstandard2.0\update2.deps.json
+D:\note\projects\Tongji-CTF-2022\reverse\easy_docx\update2\update2\update2\bin\Debug\netstandard2.0\update2.dll
+D:\note\projects\Tongji-CTF-2022\reverse\easy_docx\update2\update2\update2\bin\Debug\netstandard2.0\update2.pdb
+D:\note\projects\Tongji-CTF-2022\reverse\easy_docx\update2\update2\update2\obj\Debug\netstandard2.0\update2.csproj.AssemblyReference.cache
+D:\note\projects\Tongji-CTF-2022\reverse\easy_docx\update2\update2\update2\obj\Debug\netstandard2.0\update2.GeneratedMSBuildEditorConfig.editorconfig
+D:\note\projects\Tongji-CTF-2022\reverse\easy_docx\update2\update2\update2\obj\Debug\netstandard2.0\update2.AssemblyInfoInputs.cache
+D:\note\projects\Tongji-CTF-2022\reverse\easy_docx\update2\update2\update2\obj\Debug\netstandard2.0\update2.AssemblyInfo.cs
+D:\note\projects\Tongji-CTF-2022\reverse\easy_docx\update2\update2\update2\obj\Debug\netstandard2.0\update2.csproj.CoreCompileInputs.cache
+D:\note\projects\Tongji-CTF-2022\reverse\easy_docx\update2\update2\update2\obj\Debug\netstandard2.0\update2.dll
+D:\note\projects\Tongji-CTF-2022\reverse\easy_docx\update2\update2\update2\obj\Debug\netstandard2.0\update2.pdb

@@ -1,0 +1,1 @@
+先打印出printf的地址得到libc的基址，再执行system

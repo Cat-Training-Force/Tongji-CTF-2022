@@ -1,0 +1,1 @@
+gcc vm.c -o vm && strip ./vm && ./vm

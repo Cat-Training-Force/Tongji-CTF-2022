@@ -1,0 +1,1 @@
+docker run -d -p "0.0.0.0:9998:9999" -h "easy_sc" --name="easy_sc" easy_sc

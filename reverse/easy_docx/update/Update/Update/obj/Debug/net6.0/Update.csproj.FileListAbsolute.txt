@@ -1,0 +1,12 @@
+D:\note\projects\Tongji-CTF-2022\reverse\easy_docx\update\Update\Update\bin\Debug\net6.0\Update.deps.json
+D:\note\projects\Tongji-CTF-2022\reverse\easy_docx\update\Update\Update\bin\Debug\net6.0\Update.dll
+D:\note\projects\Tongji-CTF-2022\reverse\easy_docx\update\Update\Update\bin\Debug\net6.0\Update.pdb
+D:\note\projects\Tongji-CTF-2022\reverse\easy_docx\update\Update\Update\obj\Debug\net6.0\Update.csproj.AssemblyReference.cache
+D:\note\projects\Tongji-CTF-2022\reverse\easy_docx\update\Update\Update\obj\Debug\net6.0\Update.GeneratedMSBuildEditorConfig.editorconfig
+D:\note\projects\Tongji-CTF-2022\reverse\easy_docx\update\Update\Update\obj\Debug\net6.0\Update.AssemblyInfoInputs.cache
+D:\note\projects\Tongji-CTF-2022\reverse\easy_docx\update\Update\Update\obj\Debug\net6.0\Update.AssemblyInfo.cs
+D:\note\projects\Tongji-CTF-2022\reverse\easy_docx\update\Update\Update\obj\Debug\net6.0\Update.csproj.CoreCompileInputs.cache
+D:\note\projects\Tongji-CTF-2022\reverse\easy_docx\update\Update\Update\obj\Debug\net6.0\Update.dll
+D:\note\projects\Tongji-CTF-2022\reverse\easy_docx\update\Update\Update\obj\Debug\net6.0\refint\Update.dll
+D:\note\projects\Tongji-CTF-2022\reverse\easy_docx\update\Update\Update\obj\Debug\net6.0\Update.pdb
+D:\note\projects\Tongji-CTF-2022\reverse\easy_docx\update\Update\Update\obj\Debug\net6.0\ref\Update.dll

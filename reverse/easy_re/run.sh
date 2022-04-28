@@ -1,0 +1,1 @@
+gcc easy_re.c -o easy_re && strip ./easy_re && ./easy_re
