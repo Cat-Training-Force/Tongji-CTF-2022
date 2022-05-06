@@ -1,1 +1,0 @@
-gcc easy_struct.c -o easy_struct && ./easy_struct

@@ -1,7 +1,7 @@
 from pwn import *
 
 elf=ELF('./easy_stack')
-p=remote('127.0.0.1',9997)
+p=remote('10.10.175.204',9997)
 context.terminal=['gnome-terminal','-x','sh','-c']
 # p=process('./easy_stack')
 # p=gdb.debug('./easy_stack')

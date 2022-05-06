@@ -1,6 +1,6 @@
 from pwn import *
 # p=process('./easy_sc')
-p=remote('127.0.0.1',9998)
+p=remote('10.10.175.204',9998)
 context.arch='amd64'
 context.terminal=['gnome-terminal','-x','sh','-c']
 # p=gdb.debug('./easy_sc')

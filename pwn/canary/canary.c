@@ -11,13 +11,15 @@ void init() {
 }
 void fun() {
     char a[8];
-    printf("Don't tell others ^_^ %u %hu", *(uint32_t*)(a + 8), *(uint16_t*)(a + 12));
+    puts("");
     read(0, a, 32);
 }
 void hidden() {
     system("/bin/sh");
 }
 int main() {
+    int a=0x33323130;
+    printf("Don't tell others ^_^ %u %hu\n", *(uint32_t*)(((uint8_t*)&a) + 16), *(uint16_t*)(((uint8_t*)&a) + 20));
     init();
     size_t cnt = 0;
     while (1) {
@@ -28,7 +30,7 @@ int main() {
         if (pid) {
             cnt++;
             wait(0);
-            if (cnt >= 533) {
+            if (cnt >= 1000) {
                 printf("Failed\n");
                 exit(0);
             }
@@ -38,6 +40,11 @@ int main() {
             fun();
             puts("Maybe Success");
             fflush(stdout);
+            exit(0);
+        }
+        cnt++;
+        if(cnt>1000){
+            exit(0);
         }
     }
 }

