@@ -1,1 +1,0 @@
-docker build -t "how_beautiful_spring_is" .

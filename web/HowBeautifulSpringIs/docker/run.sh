@@ -1,0 +1,1 @@
+docker run -itd -p "0.0.0.0:38080:8080" -h "web_how_beautiful_spring_is" --name="web_how_beautiful_spring_is" web_how_beautiful_spring_is
