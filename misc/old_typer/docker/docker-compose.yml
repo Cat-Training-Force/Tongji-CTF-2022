@@ -1,0 +1,6 @@
+version: "3.3"
+services:
+  old_typer:
+    build: .
+    ports:
+      - 30110:9999
