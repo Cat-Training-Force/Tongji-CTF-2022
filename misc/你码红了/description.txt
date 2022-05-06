@@ -1,0 +1,8 @@
+你码红了
+
+欢迎乘坐轨道交通 10 号线。
+本次列车终点站新江湾城。下一站同济大学，开左边门。
+Next station, Tongji University. Doors will open on the left.
+打开 Metro 大都会，手机刷码乘地铁。
+
+提示 1：你可能需要一个正常的不拦截你 URL 的浏览器。
