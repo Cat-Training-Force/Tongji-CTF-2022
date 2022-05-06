@@ -1,1 +1,1 @@
-gcc --no-pie -o canary canary.c
+gcc -no-pie -o canary canary.c

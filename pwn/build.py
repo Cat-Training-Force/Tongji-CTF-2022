@@ -25,9 +25,6 @@ xinetd='''service ctf
     #access_times = 2:00-9:00 12:00-24:00
 }'''
 
-os.system('docker kill $(docker ps -q)')
-os.system('docker rm $(docker ps -qa)')
-os.system('docker rmi $(docker images -q)')
 dirs=[('easy_format',9999),('easy_sc',9998),('easy_stack',9997),('easy_struct',9996),('canary',9995)]
 
 for d,port in dirs:
@@ -41,7 +38,7 @@ for d,port in dirs:
     os.system(f'cp ../{d}/{d} ./bin')
     open('bin/flag','w').write('tjctf{'+''.join(rd.choice(string.hexdigits.lower()) for i in range(32))+'}')
     open('ctf.xinetd','w').write(xinetd%d)
-    os.system('./build.sh')
+    # os.system('./build.sh')
     os.chdir('..')
 
 
