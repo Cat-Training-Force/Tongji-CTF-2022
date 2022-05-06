@@ -1,0 +1,1 @@
+docker run -d -p "0.0.0.0:9999:9999" -h "e_stack" --name="e_stack" e_stack
