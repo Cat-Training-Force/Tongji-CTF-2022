@@ -1,0 +1,1 @@
+docker run -itd -p "0.0.0.0:38083:80" -h "web_ezupload" --name="web_ezupload" web_ezupload
