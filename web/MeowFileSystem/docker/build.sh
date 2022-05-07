@@ -1,0 +1,1 @@
+docker build -t "web_meow_file_system" .
