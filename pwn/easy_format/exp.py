@@ -1,6 +1,8 @@
 from pwn import *
 
-p=remote("10.10.175.204",9999)
+context.terminal=['tmux','-x','sh','-c']
+p=gdb.debug('./easy_format')
+# p=remote("10.10.175.204",9999)
 # p=remote("127.0.0.1",9999)
 # p=process('./easy_format')
 elf=ELF('./easy_format')

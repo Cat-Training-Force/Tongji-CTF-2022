@@ -1,5 +1,6 @@
 
 t=[i for i in '3gJ73Sj+tt3YognBuQN6sSi74T3lz8vQtwJPtSv6']
+'v6tSJPtwvQz83l4Ti7sSN6uQnBog3Yttj+3SJ73g'
 print(len('tjctf{K0t1in_AnDr0id_s3cUriTy}'))
 for i in range(0,len(t)-1,2):
     t1=t[i]
